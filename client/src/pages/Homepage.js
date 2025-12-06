@@ -30,7 +30,7 @@ function Homepage() {
           `}
         >
           <TweetsBoard
-            queryKey={['tweets', {}]}
+            queryKey={['TWEETS', {}]}
             loading={status === 'loading'}
             pages={data?.pages || []}
             isFetching={isFetching}
