@@ -24,7 +24,7 @@ Copy the `server/.env.example` file to `server/.env` and update the values if yo
 
 ### Installing
 
-Install server dependencies
+Install server dependencies.
 
 ```bash
 $ cd server
