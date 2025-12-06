@@ -4,7 +4,7 @@
 
 ## Description
 
-A full-stack Twitter clone app built using Node.js, Express.js, React.js, and MongoDB. Also added docker and jenkins
+A full-stack Twitter clone app built using Node.js, Express.js, React.js, and MongoDB. Also added docker and jenkins.
 
 ### Background
 
