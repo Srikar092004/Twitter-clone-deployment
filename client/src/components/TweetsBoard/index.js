@@ -209,7 +209,7 @@ function TweetsBoard({
 }
 
 TweetsBoard.defaultProps = {
-  headerText: 'Tweets loda',
+  headerText: 'Twitter Posts',
   queryKey: ['tweets', {}],
 };
 
