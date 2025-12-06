@@ -2,8 +2,8 @@ pipeline {
     agent any
 
     environment {
-        DEPLOY_PATH = "/var/www/myapp"
-        BRANCH = "main"
+        DEPLOY_PATH = "/var/www/twitter-clone-deployment"
+        BRANCH = "master"
     }
 
     stages {
