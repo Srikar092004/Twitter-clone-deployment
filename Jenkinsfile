@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DEPLOY_PATH = "/Projects/TwitterClone-Deployment/Twitter-clone-deployment"
+        DEPLOY_PATH = "Projects/TwitterClone-Deployment/Twitter-clone-deployment"
         BRANCH = "master"
     }
 
